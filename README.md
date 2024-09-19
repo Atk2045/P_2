@@ -1,5 +1,5 @@
 # P_2
-# Football status scraper
+# Football stats scraper
 
 In this code, we scrape [https://fbref.com](https://fbref.com), which contains match logs, team and player status of major football leagues. We will be specifically outlining the players abilities on average from both teams and see if there was a hint on who would win or lose. 
 
