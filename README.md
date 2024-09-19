@@ -13,6 +13,7 @@ Before running the script, ensure you have Python installed along with the follo
 
 BeautifulSoup4: For parsing HTML and XML documents.
 Requests: For making HTTP requests in Python.
+
 These can be installed via pip as part of the setup process described below.
 
 # How to run this code 
