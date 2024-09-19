@@ -11,7 +11,7 @@ We used [https://fbref.com](https://fbref.com) because it was accessible using o
 
 1. Clone the repository 
 
-git clone [https://github.com/GiveChoco/Football\_status](https://github.com/GiveChoco/Football_status)
+git clone [https://github.com/GiveChoco/Football\_status](https://github.com/Atk2045/P_2)
 
 2. (if necessary) Set up a virtual environment
 
