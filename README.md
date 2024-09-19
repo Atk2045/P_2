@@ -20,7 +20,7 @@ These can be installed via pip as part of the setup process described below.
 
 1. Clone the repository 
 
-git clone [https://github.com/Atk2045/P_2]
+git clone https://github.com/Atk2045/P_2
 
 2. (if necessary) Set up a virtual environment
 
